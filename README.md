@@ -48,12 +48,31 @@ JSON:
 
 Pedido:
 
-<img width="181" height="145" alt="image" src="https://github.com/user-attachments/assets/e4445927-2d47-4eb0-9e86-15a05d4f3416" />
+{
+	"cliente": "Elevir",
+	"quantidade": 1,
+	"prato":{
+		 "id": 5,
+		"nome": "Camarão",
+  	"preco": 55.00
+}
+}
 
 Prato:
 
-<img width="235" height="146" alt="image" src="https://github.com/user-attachments/assets/2dfddc3b-df50-40e6-bf1e-101901a58963" />
+{
+  "nome": "Moqueca de Camarão",
+  "preco": 11.00,
+  "restaurante": {
+    "id": 4,
+    "nome": "Restaurante do Zé",
+    "endereco": "Av. Central, 456"
+  }
+}
 
 Restaurante:
 
-<img width="256" height="73" alt="image" src="https://github.com/user-attachments/assets/4074dd69-44a5-46db-a508-6db8ad494c60" />
+{
+	 "nome": "Moqueca de Galinha",
+  "endereco": "Costinha"
+}
