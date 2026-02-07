@@ -4,7 +4,7 @@ API REST desenvolvida em **Java com Spring Boot** para gerenciamento de **restau
 
 ---
 
-## 📌 Funcionalidades
+## 📌 Funcionalidades:
 
 - Cadastro, listagem, atualização e remoção de **Restaurantes**
 - Cadastro, listagem, atualização e remoção de **Pratos**
